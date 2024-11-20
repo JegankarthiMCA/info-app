@@ -1,0 +1,2 @@
+react native javascript app create command as "npx create-expo-app firstapp --template blank" 
+
